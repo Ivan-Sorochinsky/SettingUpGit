@@ -1,5 +1,5 @@
 class NewClass {
-    public void print(String f){
+    public static void print(String f){
         System.out.println(f);
     }
 }
